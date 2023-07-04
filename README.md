@@ -1,4 +1,4 @@
-### Hi there 👋, Rida Sebbani
+### Hi there 👋
 I'm Rida Sebbani, a passionate software engineering student with a relentless drive to learn and improve my craft.
 
 - 🔭 I’m currently working on node.js and react for a fullstack project.
